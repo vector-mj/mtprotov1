@@ -1,0 +1,8 @@
+{
+    "users":[
+        {"username":"mohammad1@gmail.com","password":"1234.","secret":"dd000000000000000000000000000000006d6f68616d6d61643140676d61696c2e636f6d","maxConnection":1},
+        {"username":"mohammad2@gmail.com","password":"1234..","secret":"dd000000000000000000000000000000006d6f68616d6d61643240676d61696c2e636f6d","maxConnection":2},
+        {"username":"mohammad3@gmail.com","password":"1234...","secret":"dd000000000000000000000000000000006d6f68616d6d61643340676d61696c2e636f6d","maxConnection":3},
+        {"username":"mohammad4@gmail.com","password":"1234....","secret":"dd000000000000000000000000000000006d6f68616d6d61643440676d61696c2e636f6d","maxConnection":4}
+    ]
+}
